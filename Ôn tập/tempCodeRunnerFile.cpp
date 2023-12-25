@@ -1,0 +1,1 @@
+cout << "Không phải là số nguyên tố" << endl;
